@@ -9,5 +9,5 @@ Requirements:
   * Selenium
   * ImgurPython
 * Mozilla Firefox 45 (Newer versions may not take screenshot of entire webpage)
-* Imgur.com API ID
+* Imgur.com API ID (https://api.imgur.com/)
 * Reddit.com account
