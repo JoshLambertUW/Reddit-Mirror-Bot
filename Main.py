@@ -15,7 +15,7 @@ reddit_id = ''
 reddit_password = ''
 
 #Domains to work on e.g. ['seattletimes.com/']
-whiteList = ['imgur.com/']
+whiteList = ['']
 #Subreddit to work in e.g. 'All' or 'SeattleWA'
 community = 'All'
 
